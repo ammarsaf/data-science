@@ -38,7 +38,7 @@ Python Courses
 ## **Statistics**
 
 Statistics Series
-- [JOsh Starmer](https://www.youtube.com/c/joshstarmer)
+- [Josh Starmer](https://www.youtube.com/c/joshstarmer)
 - [Data Professor](https://www.youtube.com/c/DataProfessor)
 
 **Statistics Python Package**
